@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/dashboard/loading.tsx"],"sourcesContent":["import DashboardSkeleton from \"../ui/skeletons\";\n\nexport default function Loading() {\n  return <DashboardSkeleton/>\n}"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACtB,qBAAO,ucAAC,uHAAA,CAAA,UAAiB;;;;;AAC3B"}},
+    {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

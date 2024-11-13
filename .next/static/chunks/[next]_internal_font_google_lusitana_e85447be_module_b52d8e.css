@@ -1,0 +1,16 @@
+/* [next]/internal/font/google/lusitana_e85447be.module.css [app-client] (css) */
+@font-face {
+  font-family: Lusitana Fallback;
+  src: local(Times New Roman);
+  ascent-override: 92.03%;
+  descent-override: 32.83%;
+  line-gap-override: 0.0%;
+  size-adjust: 103.88%;
+}
+
+.lusitana_e85447be-module__j818aG__className {
+  font-family: Lusitana, Lusitana Fallback;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_lusitana_e85447be_module_b52d8e.css.map*/
